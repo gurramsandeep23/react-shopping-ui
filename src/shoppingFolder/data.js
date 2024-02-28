@@ -1,0 +1,36 @@
+export const Gents={
+    title:"Gents Fashions",
+    image1:"assets/Men/1.jpg",
+    image2:"assets/Men/2.jpg",
+    image3:"assets/Men/3.jpg",
+    image4:"assets/Men/5.jpg",
+    image5:"assets/Men/6.jpg",
+    image6:"assets/Men/6.jpg",
+    price1:"199 INR",
+    price2:"299 INR",
+    price3:"399 INR",
+    price4:"499 INR",
+    price5:"599 INR",
+    price6:"699 INR",
+}
+
+export const Ladies={
+    title:"Ladies Fashions",
+    image1:"assets/Woman/1.jpg",
+    image2:"assets/Woman/2.jpg",
+    image3:"assets/Woman/3.jpg",
+    image4:"assets/Woman/4.jpg",
+    image5:"assets/Woman/5.jpg",
+    image6:"assets/Woman/6.jpg",
+    image7:"assets/Woman/7.jpg",
+    image8:"assets/Woman/8.jpg",
+    price1:"199 INR",
+    price2:"299 INR",
+    price3:"399 INR",
+    price4:"499 INR",
+    price5:"599 INR",
+    price6:"699 INR",
+    price7:"799 INR",
+    price8:"899 INR",
+
+}
